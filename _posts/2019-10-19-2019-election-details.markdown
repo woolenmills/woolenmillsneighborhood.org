@@ -15,8 +15,8 @@ We encourage families to dress their kids in their best Halloween costumes for a
 **Election:**
 
 * There are two candidates seeking seats on the WMNA Board: Annie Stafford & Louis Schultz. We have five seats available.
-* [Annie Stafford's statement]({% post_url 2019-10-18-wmna-board-candidate-annie-stafford %})
-* [Louis Schultz's statement]({% post_url 2019-10-18-wmna-board-candidate-louis-schultz %})
+* [Annie Stafford's statement]({{ site.baseurl }}{% post_url 2019-10-18-wmna-board-candidate-annie-stafford %})
+* [Louis Schultz's statement]({{ site.baseurl }}{% post_url 2019-10-18-wmna-board-candidate-louis-schultz %})
 * You may vote for more than one candidate.
 * Per the WMNA constitutional amendment adopted by neighborhood vote in May, the voting process is as follows: *“Voting shall be by written ballot at the Annual meeting, by mail at an address designated by the Board or by emailing the Board. In the event of votes cast by email or mail, such votes must be received prior to the Annual Meeting. There will be no write in votes allowed. Candidates must receive at least 10 votes to be elected to the Board.”*
 * In-person voting will take place during the Fall Social from 4:00-6:00 PM in the Chapel.
