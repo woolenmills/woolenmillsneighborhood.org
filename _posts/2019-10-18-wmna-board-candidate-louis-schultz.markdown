@@ -29,7 +29,7 @@ If the WMNA is to survive, a lot must change. I plan to be an agent of change.
 Louis Schultz
 
 ----
-\
+
 Neighbors,
 
 I’d like to declare my candidacy for the WMNA board. There are numerous issues I’d like to address as a board member, but I’ll select two to highlight. Those are my concerns about the future of the Woolen Mills Chapel and the accountability (or lack thereof) of the WMNA board to the greater Woolen Mills Neighborhood.

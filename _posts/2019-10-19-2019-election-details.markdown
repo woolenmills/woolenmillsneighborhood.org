@@ -23,6 +23,6 @@ We encourage families to dress their kids in their best Halloween costumes for a
 * Absentee voting will take place by email to wmna-board@googlegroups.com, and your vote must be cast no later than 4:00 PM on Sunday, October 27th.
 * If you would like to mail in your ballot, it must be received by Sunday, October 27th at 4:00 PM. Please send it to the following address:
 
-WMNA Election\
-1516 E Market Street\
+WMNA Election  
+1516 E Market Street  
 Charlottesville, VA 22902
