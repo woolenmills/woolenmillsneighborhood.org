@@ -3,6 +3,7 @@ layout: post
 title:  "Woolen Mills Public Hearing"
 date:   2017-05-09 00:00:00 +0000
 categories: mill
+author: Bill Emory
 ---
 
 Wednesday, May 10, two rezoning and special permit requests will be before the Albemarle County Board of Supervisors. The BOS will hold a public hearing. The public hearing concerning the Woolen Mills Property is the last of five public hearings. The public hearings start at 6:00 PM at the County Office Building (Lane High School).
