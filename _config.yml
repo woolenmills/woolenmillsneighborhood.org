@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   and Meade Avenue, Woolen Mills is one of the oldest neighborhoods in the City.
   As residents here, we value our diverse neighborhood and enjoy its rural feel
   that is grounded in a long human history and access to nature and recreation.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/woolenmillsneighborhood.org" # the subpath of your site, e.g. /blog
 url: "http://woolenmillsneighborhood.org" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  woolenmills
 
